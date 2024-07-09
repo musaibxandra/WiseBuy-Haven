@@ -5,7 +5,7 @@
 
 Python | sql / Postgresql | Tableau
 
-This repository contains SQL queries and the slide presentation for the analytical project on WiseBuy Haven sales a shopping mall chain in united states franchised over 49 states, Aims at exploring the sales and analyzing metrics and concerns on sales at WiseBuy Haven a retail mall by anlyzing the following questions:
+This repository contains SQL queries and the slide presentation for the analytical project on WiseBuy Haven sales a shopping mall chain in united states franchised over 49 states, Aims at exploring the sales and analyzing metrics and concerns on sales at WiseBuy Haven a retail mall by anlyzing the following:
 
 
 1. What regions have made the most sales?
@@ -62,5 +62,7 @@ Brief findings of this project are:
 
 
 # Final Report
+
+- Available in the tableau workbook file `wise_workbook.twbx`.
 
 ![Alt text](images/snap2.png)
