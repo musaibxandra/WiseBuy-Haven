@@ -37,6 +37,7 @@ Information on the dataset include:
 
 # Graphs and Charts
 
+- KPIs
 - Calendar
 - U.S Map
 - Bar Chart
