@@ -57,7 +57,8 @@ Information on the dataset include:
 Brief findings of this project are:
 1. West region has the highest sales followed by East.
 2. California, New york are, Texas, Washington and Pennsylvania are the most profitable states.
-       - California: 457687.63,
+
+        - California: 457687.63,
        - New York: 310876.27,
        - Texas: 170188.05,
        - Washington: 138641.27,
@@ -70,7 +71,7 @@ Brief findings of this project are:
             Percentage = 52%
     - So, the top 5 states accounted for approximately 52% of the total profits.
    
-3. Average sales by product sub-category are:
+4. Average sales by product sub-category are:
 
 
 ![Alt text](images/snap.png)
