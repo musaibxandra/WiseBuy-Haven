@@ -63,8 +63,8 @@ Brief findings of this project are:
 ![Alt text](images/snap.png)
 
 
-4. "2006" had the highest Weekly average sale
-5. "Illinois" has the lowest monthly profit margin?
+4. "2006" had the highest Weekly average sale.
+5. "Illinois" has the lowest monthly profit margin.
 
 
 # Final Report
