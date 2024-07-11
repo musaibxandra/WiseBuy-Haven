@@ -23,7 +23,7 @@ The goal of this project is to provide WiseBuy Haven with executable insights by
 
 # Data
 
-The dataset used in this analysis contains records close 1000 customers obtained from which is available in this repo.
+The dataset used in this analysis contains information about customers close to 1000 and the dataset is available in this repo.
 
 Information on the dataset include:
 
