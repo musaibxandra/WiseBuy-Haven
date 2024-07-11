@@ -7,11 +7,11 @@ SQL | PostgreSQL | Tableau
 
 # Introduction
 
-WiseBuy Haven, a prominent shopping mall chain has observed fluctuations in sales and profitability across its stores nationwide. The Executive team seeks to optimize its operations and enhance profitability by leveraging data-driven insights.
+WiseBuy Haven, a prominent shopping mall chain has observed fluctuations in sales and profitability across its stores nationwide. The Executive team seeks to optimize its operations and enhance profitability by leveraging data-driven insights.  WiseBuy Haven's management has tasked the data analysis team with a comprehensive review of the company's sales performance.
 
 # Objective:
 
-The goal of this project is to provide WiseBuy Haven with actionable insights by addressing the following key questions:
+The goal of this project is to provide WiseBuy Haven with executable insights by addressing the following key questions:
 
 1. What regions have made the most sales?
 2. Which states have turned out to be more profitable?
