@@ -5,8 +5,13 @@
 
 SQL | PostgreSQL | Tableau
 
-This repository contains SQL queries and the slide presentation for the analytical project on WiseBuy Haven sales a shopping mall chain in united states franchised over 49 states, Aims at exploring the sales and analyzing metrics and concerns on sales at WiseBuy Haven a retail mall by anlyzing the following:
+# Introduction
 
+WiseBuy Haven, a prominent shopping mall chain has observed fluctuations in sales and profitability across its stores nationwide. The Executive team seeks to optimize its operations and enhance profitability by leveraging data-driven insights.
+
+# Objective:
+
+The goal of this project is to provide WiseBuy Haven with actionable insights by addressing the following key questions:
 
 1. What regions have made the most sales?
 2. Which states have turned out to be more profitable?
