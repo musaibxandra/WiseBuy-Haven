@@ -13,11 +13,11 @@ WiseBuy Haven, a prominent shopping mall chain (dummy organization) has observed
 
 The goal of this project is to provide WiseBuy Haven with executable insights by addressing the following key questions:
 
-1. What regions have made the most sales?
-2. Which states have turned out to be more profitable?
-3. Derive the average sales by product sub-category
-4. Which year had the highest Weekly average sale?
-5. What is the total profit ratio over years?
+- What regions have made the most sales?
+- Which states have turned out to be more profitable?
+- Derive the average sales by product sub-category
+- Which year had the highest Weekly average sale?
+- What is the total profit ratio over years?
 
 
 
