@@ -4,7 +4,6 @@
 
 Demo;
 
-[Link to Video](./images/Sample.mov)
 
 
 ## Project Description
