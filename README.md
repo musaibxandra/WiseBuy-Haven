@@ -4,7 +4,7 @@
 
 Demo;
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/985720283?h=10eaebe8c5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+[Link to Video](./images/Sample.mov)
 
 
 ## Project Description
