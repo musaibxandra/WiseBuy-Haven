@@ -4,7 +4,6 @@
 
 Demo;
 
-![Demo Video](images/Sample.mp4)
 
 
 ## Project Description
